@@ -1,7 +1,7 @@
 
 # Backend Developer Portfolio
 
-Welcome to my portfolio repository! I am a backend developer with experience in various frameworks and technologies including Node.js, NestJS, Laravel, and Django.
+Welcome to my portfolio repository! I am a backend developer with experience in various frameworks and technologies including Node.js, NestJS, Laravel, Django, and React.js.
 
 ## 🛠️ Technologies & Frameworks
 
@@ -9,6 +9,7 @@ Welcome to my portfolio repository! I am a backend developer with experience in 
 - **NestJS** - A progressive Node.js framework for building efficient, reliable, and scalable server-side applications.
 - **Laravel** - A PHP framework for web artisans, providing an expressive and elegant syntax.
 - **Django** - A high-level Python web framework that encourages rapid development and clean, pragmatic design.
+- **React.js** - A JavaScript library for building user interfaces, often used for creating dynamic, single-page applications.
 
 ## 📁 Project Structure
 
@@ -19,6 +20,7 @@ The repository is organized into folders for each technology, making it easy to 
 ├── nestjs/         # NestJS applications and services
 ├── laravel/        # Laravel projects and components
 ├── django/         # Django projects and applications
+├── reactjs/        # React.js applications
 └── README.md       # This README file
 ```
 
@@ -85,6 +87,19 @@ Each framework has its own requirements and setup process. Below is a quick star
    ```bash
    python manage.py migrate
    python manage.py runserver
+   ```
+
+### React.js
+
+1. **Install Node.js** (version 14+ recommended).
+2. Navigate to the `reactjs` folder and install dependencies:
+   ```bash
+   cd reactjs
+   npm install
+   ```
+3. Run the React application:
+   ```bash
+   npm start
    ```
 
 ## 🤝 Contributing
