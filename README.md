@@ -1,5 +1,5 @@
 
-# Backend Developer Portfolio
+# Backend Developer
 
 Welcome to my portfolio repository! I am a backend developer with experience in various frameworks and technologies including Node.js, NestJS, Laravel, Django, and React.js.
 
